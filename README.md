@@ -134,7 +134,7 @@ Nearly 84% of our top 5% customers have stopped ordering on our platform during 
 
 ![Q4-v2](https://github.com/gaurav-patil-git/10_Crisis_Management/blob/main/visuals/Q4-v5.png)
 
-<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+<h2><a class="anchor" id="dashboard"></a>📊 Dashboard</h2>
 
 ### Executive View: 
 
