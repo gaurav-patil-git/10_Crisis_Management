@@ -23,7 +23,7 @@ This project aims to provide insights and recommendations for crisis management 
 
 <h2><a class="anchor" id="credits"></a>🪪 Credits</h2>
 
-This project is a part of the “_CodeBasics Resume Challenge #17_” course offered by **Codebasics** - All rights reserved.
+This project is a part of the “_CodeBasics Resume Challenge #18_” course offered by **Codebasics** - All rights reserved.
 
 - **Platform**: codebasics.io – All rights reserved.
 
