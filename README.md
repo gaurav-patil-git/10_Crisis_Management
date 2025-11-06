@@ -75,7 +75,7 @@ crisis-management-analysis/
 │   └── quickbite-dashboard.pbix
 │
 ├── presentation/               # PowerPoint file
-│   └── quickbite-dashboard.pbix
+│   └── quickbite-presentation.pbix
 │
 ├── visuals/                    # Portable Network Graph files
 │   └── quick-bite-logo.png
