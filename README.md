@@ -94,6 +94,7 @@ Due to the negative virality on social media, orders dropped by 58.86% in June 2
 
 #### 📊 Visualization:
 
+![Q1](https://github.com/gaurav-patil-git/10_Crisis_Management/blob/main/visuals/Q1.png)
 
 ### Question 2: 
 - Which top 5 city groups experienced the highest percentage decline in orders during the crisis period compared to the pre-crisis period?
@@ -103,6 +104,8 @@ Due to the negative virality on social media, orders dropped by 58.86% in June 2
 Kolkata faced the largest drop among all 8 operational cities. However, it is also the city with the lowest order volume, fewest restaurant partners, and smallest customer base. Notably, the downturn for cities is between the range of 58% to 63%. A similar trend is observed in revenue. Moreover, the majority of our top restaurant partners (those with over 50 orders) have experienced a drop between 60% and 90%.
 
 #### 📊 Visualization:
+
+![Q2](https://github.com/gaurav-patil-git/10_Crisis_Management/blob/main/visuals/Q2.png)
 
 ### Question 3: 
 - Cancellation Analysis: What is the cancellation rate trend pre-crisis vs crisis, and which cities are most affected?
@@ -117,6 +120,8 @@ Customer experience and sentiment have been severely affected. Cancellation rate
 
 #### 📊 Visualization:
 
+![Q3](https://github.com/gaurav-patil-git/10_Crisis_Management/blob/main/visuals/Q3.png)
+
 ### Question 4: 
 - Customer Lifetime Decline: Which high-value customers (top 5% by total spend before the crisis) showed the largest drop in order frequency and ratings during the crisis? What common patterns (e.g., location, cuisine preference, delivery delays) do they share? 
 
@@ -125,13 +130,23 @@ Nearly 84% of our top 5% customers have stopped ordering on our platform during 
 
 #### 📊 Visualization:
 
+![Q4-v1](https://github.com/gaurav-patil-git/10_Crisis_Management/blob/main/visuals/Q4-v1.png)
+
+![Q4-v2](https://github.com/gaurav-patil-git/10_Crisis_Management/blob/main/visuals/Q4-v5.png)
+
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
 ### Executive View: 
 
+![executive-view](https://github.com/gaurav-patil-git/10_Crisis_Management/blob/main/visuals/executive-view.png)
+
 ### Restaurant & Delivery Partner View: 
 
+![partner-view](https://github.com/gaurav-patil-git/10_Crisis_Management/blob/main/visuals/partner-view.png)
+
 ### CRM View: 
+
+![crm-view](https://github.com/gaurav-patil-git/10_Crisis_Management/blob/main/visuals/crm-view.png)
 
 <h2><a class="anchor" id="final-recommendations"></a>📝 Final Recommendations</h2>
 
