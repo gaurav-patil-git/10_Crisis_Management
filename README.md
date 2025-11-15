@@ -1,4 +1,4 @@
-# Crisis Management | Food & Beverages (F & B)
+# Crisis Management | Direct-to-Consumer (D2C)
 
 ### Perform business/data analysis to provide insights and recommendations for crisis management in an online food delivery startup.
 
